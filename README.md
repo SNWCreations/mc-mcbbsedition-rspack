@@ -6,7 +6,7 @@ Because I found some users corresponding to MC content in mcbbs
 
 Put them in this resource package.
 
-# Only for Minecraft 1.15 - 1.16.1
+ONLY FOR Minecraft 1.15 - 1.16.1
 
 -- by SNWCreations
 
