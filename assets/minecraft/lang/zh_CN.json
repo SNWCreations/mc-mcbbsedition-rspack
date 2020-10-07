@@ -1,5 +1,5 @@
 {
-  "language.name": "MCBBS 中文",
+  "language.name": "MCBBS中文",
   "language.region": "China",
   "language.code": "zh_mcbbs",
   "item.minecraft.water_bucket": "mohui666桶",
@@ -7,6 +7,8 @@
   "item.minecraft.pig_spawn_egg": "生成yellowpiggy",
   "item.minecraft.sheep_spawn_egg": "生成SHEEP_REALMS",
   "item.minecraft.creeper_spawn_egg": "生成JJ怪大战",
+  "item.minecraft.mooshroom_spawn_egg": "生成阿秋Minecraft",
+  "item.minecraft.squid_spawn_egg": "生成squid233",
   "item.minecraft.iron_pickaxe": "ff98sha",
   "item.minecraft.netherite_pickaxe": "黑化的ff98sha",
   "block.minecraft.tube_coral_block": "管状的Minecraft.Wnxi",
@@ -19,6 +21,7 @@
   "block.minecraft.dead_bubble_coral_block": "去世的带气泡Minecraft.Wnxi",
   "block.minecraft.dead_fire_coral_block": "去世的带火Minecraft.Wnxi",
   "block.minecraft.dead_horn_coral_block": "去世的带鹿角Minecraft.Wnxi",
+  "item.minecraft.experience_bottle": "Mr.时间之瓶",
   "block.minecraft.birch_planks": "发光的木板",
   "block.minecraft.warped_planks": "诡异的发光的木板"
 }
