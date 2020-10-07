@@ -1,0 +1,17 @@
+{
+    "pack": {
+        "pack_format": 5,
+        "description": "§eMinecraft: MCBBS Edition\n§3Release v1.0.0"
+    },
+    "language": {
+        "zh_mcbbs": {
+            "name": "§eMCBBS 中文§r",
+            "region": "§c天朝§r",
+            "bidirectional": "false"
+        }
+    },
+    "author": [
+        "SNWCreations",
+    ],
+    "home": "https://github.com/SNWCreations/mc-mcbbsedition-rspack",
+}
