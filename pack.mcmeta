@@ -1,0 +1,18 @@
+﻿{
+    "pack": {
+        "pack_format": 5,
+        "description": "§eMinecraft: MCBBS Edition §3v1.2\n§bHAPPY NEW YEAR!"
+    },
+    "language": {
+        "zh_mcbbs": {
+            "name": "§eMCBBS 中文§r",
+            "region": "§c天朝§r",
+            "bidirectional": "false"
+        },
+        "en_us_old": {
+            "name": "§e原始 English§r",
+            "region": "§cUS§r",
+            "bidirectional": "false"
+        }
+    }
+}
