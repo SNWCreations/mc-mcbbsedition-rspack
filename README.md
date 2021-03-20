@@ -40,7 +40,7 @@ See if I am busy! ~~(Although sometimes it doesn’t update even if it’s not b
 
 About Copyright & Mentioned Person
 
-Copyright (C) 2020-2021 ZX Summer Night Wind (SNWCreations), all rights reserved.
+Copyright (C) 2020-2021 SNWCreations, all rights reserved.
 
 For the person mentioned: If you do not want to appear in this project, please send an email to me. (The email address can be found at the end.)
 
