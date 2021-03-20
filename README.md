@@ -50,8 +50,7 @@ Contact me!
 
 Twitter: @snwcreations
 
-E-mail: snwcreations@qq.com (for Chinese)
-        windcheng233@gmail.com (for international)
+E-mail: snwcreations@qq.com (for Chinese), windcheng233@gmail.com (for international)
 
 ---
 
