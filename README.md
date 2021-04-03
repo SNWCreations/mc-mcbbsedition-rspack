@@ -20,7 +20,7 @@ Of course, these modified names are borrowed from some MCBBS (www.mcbbs.net) use
 
 ---
 
-some problems
+Some problems
 
 Can I use this resource pack to make an introduction video?
 
