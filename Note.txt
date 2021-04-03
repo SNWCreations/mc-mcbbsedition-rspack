@@ -5,11 +5,11 @@ Release Note
 
 v1.3 Pre-release 2
 
-hey£¬ÕâÀïÊÇÏÄÒ¹Ö®·ç¡£
-±¾´Î·¢²¼1.3µÄµÚ 2 ¸öÔ¤·¢²¼£¡
-Õâ´Î¼ÓÁËÒ»Ð©ºÃÍæµÄ¶«Î÷¡£¡£
+heyï¼Œè¿™é‡Œæ˜¯å¤å¤œä¹‹é£Žã€‚
+æœ¬æ¬¡å‘å¸ƒ1.3çš„ç¬¬ 2 ä¸ªé¢„å‘å¸ƒï¼
+è¿™æ¬¡åŠ äº†ä¸€äº›å¥½çŽ©çš„ä¸œè¥¿ã€‚ã€‚
 
 
-Ö»ÔÚ Github »ò MCBBS ·¢²¼£¬ÆäËû¾ùÎª×ªÔØ¡£
+åªåœ¨ Github æˆ– MCBBS å‘å¸ƒï¼Œå…¶ä»–å‡ä¸ºè½¬è½½ã€‚
 
 -- SNWCreations
