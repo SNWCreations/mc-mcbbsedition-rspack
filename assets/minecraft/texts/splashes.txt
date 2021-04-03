@@ -1,10 +1,11 @@
-﻿Pack created by SNWCreations!
-New experience!
-Make some suggestions!
-This language pack is very simple!
-Oh my god! my damn junk computer!
-Not as interesting as meme Chinese...
-§cMISSINGTEXT
-Actually, it should be MCBBS Edition!
-DEEP♂DARK♂FANTASY
-This time the language file has been redone!
+﻿* ONLY ON GITHUB OR MCBBS.
+* It should be MCBBS Edition!
+* This is a Pre-release.
+
+/give @a mcbbs:super_alab_tnt{JUNK:1b} 64
+Ouch!
+Also try "CrazyMinecraft" datapack!
+You can join Complex Studio and talk with me!
+LBWNB LBWNB LBWNB
+ITSK! (itsk.com)
+MY MCBBS ID: 2190885
