@@ -1,5 +1,7 @@
 ===== Minecraft: MCBBS Edition =====
 
+**DEPRECATED PROJECT**
+
 I am busy lately, so this project will not be updated. (Unless I am very free)
 
 ---
